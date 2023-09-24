@@ -3,6 +3,8 @@
 [View my Portfolio](https://sjohns2020.github.io/portfolio/)
 
 
+---
+
 Deploy on Gh-pages
 
 ```sh 
