@@ -7,15 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-@font-face {
-  font-family: 'LOST-Font';
-  src:url('lost/LOST-Font.ttf.woff') format('woff'),
-      url('lost/LOST-Font.ttf.svg#LOST-Font') format('svg'),
-      url('lost/LOST-Font.ttf.eot'),
-      url('lost/LOST-Font.ttf.eot?#iefix') format('embedded-opentype'); 
-  font-weight: normal;
-  font-style: normal;
-}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

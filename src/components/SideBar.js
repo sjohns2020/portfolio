@@ -51,8 +51,7 @@ const SideBar = () => {
                         <NavLink to="/techstack" activeClassName="active">
                             <div className="side-link">
                                 <img src={techstack} alt="tech_stack" className="dharma" />
-                                <p className="dharma2">Tech</p>
-                                <p className="dharma2">Stack</p>
+                                <p className="dharma2">TechStack</p>
 
                             </div>
                         </NavLink>
