@@ -1,6 +1,7 @@
 # Portfolio 
 
-[View my Portfolio](https://sjohns2020.github.io/portfolio)
+[View my Portfolio]([https://sjohns2020.github.io/portfolio](https://sjohns2020.github.io/portfolio/))
+
 
 Deploy on Gh-pages
 
