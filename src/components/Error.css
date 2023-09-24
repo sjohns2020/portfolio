@@ -1,0 +1,60 @@
+/* LostErrorPage.css */
+
+/* Overall container styling */
+.lost-error-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styling */
+  .lost-header {
+    font-size: 4rem;
+    margin-bottom: 20px;
+  }
+  
+  .lost-header p {
+    font-size: 1.5rem;
+  }
+  
+  /* Content styling */
+  .lost-content {
+    margin-bottom: 20px;
+  }
+  
+  .lost-content p {
+    font-size: 1.2rem;
+  }
+  
+  /* Button styling */
+  .lost-button a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .lost-button a:hover {
+    background-color: #45a049;
+  }
+  
+  /* Image styling */
+  .lost-image img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #4caf50;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
